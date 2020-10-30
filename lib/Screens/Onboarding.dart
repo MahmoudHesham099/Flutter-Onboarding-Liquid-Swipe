@@ -8,6 +8,6 @@ class OnBoarding extends StatefulWidget {
 class _OnBoardingState extends State<OnBoarding> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold();
   }
 }
