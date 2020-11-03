@@ -1,4 +1,4 @@
-# onboardingliquidswipe
+# Onboarding Liquid Swipe
 
 Flutter Onboarding Animation UI liquid swipe package
 
